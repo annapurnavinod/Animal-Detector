@@ -19,8 +19,11 @@ For night time detetcion we  install a 9t vision camera set up for detecting the
 
 ![pathway](https://user-images.githubusercontent.com/67196669/120081557-db076d80-c0db-11eb-8760-380e714783bb.jpeg)
 
+This method is holistic in a way that it doesnt promote harming the animal but simply diverts them away from the farm to desirable location.
 
-A web application installed on the farmer's phone helps to monitor the switching of night and day mode, alert of intrusion etc.
+
+A web application installed on the farmer's phone helps to monitor the switching of modes from day to night, alert of intrusion etc.
+
 
 
 
